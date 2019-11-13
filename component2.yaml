@@ -1,0 +1,10 @@
+name: prediction 
+description: Performs prediction for a existing trained model.
+inputs:
+implementation:
+  container:
+    image: omie12/image-predictio:9.0
+    command: [
+   
+    ]
+

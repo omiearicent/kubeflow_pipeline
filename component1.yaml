@@ -1,0 +1,10 @@
+name: Image classification model generation
+description: Performs Image classification model generation
+inputs:
+implementation:
+  container:
+    image: omie12/image-class:4.0
+    command: [
+        
+    ]
+
